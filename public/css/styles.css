@@ -1,0 +1,54 @@
+
+a{
+    text-decoration: none;
+}
+
+img {
+    height: 200px;
+    width: 280px;
+}
+
+#home{
+    background-color: rgb(220, 239, 255);
+    color: rgb(1, 62, 116);
+}
+
+#lovelaceColor{
+    background-color: rgb(234, 189, 255);
+    color: rgb(116, 1, 101);
+}
+
+#turingColor{
+    background-color: rgb(235, 255, 179);
+    color: rgb(0, 87, 14);
+}
+
+#hooperColor{
+    background-color: rgb(210, 255, 225);
+    color: rgb(1, 95, 56);
+}
+
+#hamiltonColor{
+    background-color: rgb(255, 210, 210);
+    color: rgb(63, 0, 26);
+}
+
+#clarkeColor{
+    background-color: rgb(255, 254, 210);
+    color: rgb(116, 47, 1);
+}
+
+#bernelColor{
+    background-color: rgb(255, 210, 251);
+    color: rgb(82, 0, 85);
+}
+
+#babbageColor{
+    background-color: rgb(210, 211, 255);
+    color: rgb(36, 1, 116);
+}
+
+#errorColor{
+    background-color: rgb(0, 0, 0);
+    color: rgb(116, 1, 1);
+}
